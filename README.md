@@ -17,3 +17,4 @@ Placeholder user example:
 - Google / Facebook providers
 - ~~Copy Button~~ using ([clipboardjs](https://clipboardjs.com/))
 - Pretty Copy Button
+- Add tutorial how to use it
